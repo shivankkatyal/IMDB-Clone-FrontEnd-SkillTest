@@ -1,2 +1,22 @@
 # IMDB-Clone-FrontEnd-SkillTest
-The IMDB Clone project is a web application developed with HTML, CSS, and JavaScript. It allows users to search for movies, add them to favorites, view movie details, and manage their favorite movies list. It offers a responsive and interactive movie browsing experience, making it a user-friendly tool for movie enthusiasts.
+IMDB Clone project is developed using following languages in VS Code : HTML, CSS & JavaScript.
+
+This project is available on the following link - https://shivankkatyal.github.io/IMDB-Clone-FrontEnd-SkillTest/
+
+Let me give you a short introduction about this project. Basically this projects covers below basic functionalities which helps us to fulfill the requirement :
+
+->Home Page:
+    -Search any movie from the API and display the search results on the frontend (as I type the search results should update, just like Google does for suggestions).
+    -Each search result of the movie should have a favourite button, clicking on which the movie should be added to “My favourite movies” (a list).
+    -On clicking any particular search result (any movie), open a new page with more information about that movie (movie page)
+
+->Movie Page:
+    -Should show information about the movie like its name, photo, plot, etc (these are must, rest you can add if you want).
+
+->My favourite movies Page:
+    -Display a list of all the favourite movies.
+    -Make this list persistent (should have the same number of movies before and after closing the browser/refreshing the browser).
+    -Remove from favourites button: Each movie should have remove from favourites button, clicking on which should remove that movie from the list.
+
+
+Hope you like this project.
